@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: minima
 title: Home
 ---
 
