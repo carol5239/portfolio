@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-## Greeting. Welcome inside Carol's brain! We are excited to host you.
+## Greetings. Welcome inside Carol's brain! We are excited to host you.
 
 Each section is an attempt to sort Carol's thoughts into some sort of intelligble schema. 
 
