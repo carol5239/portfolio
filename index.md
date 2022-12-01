@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Greeting. Welcome inside Carol's brain! We are excited to host you.
 
+Each section is an attempt to sort Carol's thoughts into some sort of intelligble schema. 
 
 #### Here are some example pages:
 
